@@ -36,7 +36,7 @@ click to view my [blog] (hasanjawaid.blogspot.com)
 3. list c
 1. nested list a
    1. nested list b
-     1. nested list c
+      - nested list c
      
-[x] task list marked
-[ ] not marked
+- [x] task list marked
+- [ ] not marked
