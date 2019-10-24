@@ -5,16 +5,28 @@
 ##### Heading1
 ###### Heading1
 **Bold * Text**
+
 __Bold with UNderscore__
+
 _Italic_
-**Bold with _italic**
+
+**Bold with _italic_**
+
 ~~strikthough~~ 
-*** All Bold and italic ***
+
+
+***All Bold and italic***
+
+
+
 > this is my quote
+
 `quoting code`
+
 ```
 this is my code
 ```
+
 click to view my [blog] (hasanjawaid.blogspot.com)
 - list1
 - list2
